@@ -1,0 +1,17 @@
+body{
+    background-image: url(/assets/img/joelzrdj_0.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+hr{
+    opacity: 0;
+}
+
+.myHeading {
+    color: red;
+  }
+  
+  h2{
+    color: red;
+  }
